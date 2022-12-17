@@ -1,0 +1,2 @@
+# Machine_Learning_termproject
+2022-2_HUFS_기계학습_termproject
